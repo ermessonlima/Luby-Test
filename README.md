@@ -22,7 +22,7 @@ To install this example application, run the following commands:
 
 ```bash
 git clone https://github.com/ermessonlima/Luby-Test.git
-cd Luby-Test-main
+cd Luby-Test
 yarn install
 ```
 This will get a copy of the project installed locally.
@@ -37,7 +37,7 @@ To run the app on Android:
 react-native run-android
 ```
 
-# Desenvolvedor
+# Developer
 
 <table>
   <tr>
