@@ -6,16 +6,16 @@ Meu nome é Ermesson Lima,  dou as boas-vindas a cada um de vocês.
 
 
 <table>
-
+  <tr>
     <td align="center"><img src="/_docs/home.jpeg" width="200"> <br /><sub><b>Login</b></sub></a><br /></td>
-
-
+  </tr>
+   <tr>
     <td align="center"><img src="/_docs/perfil.jpeg" width="200"> <br /><sub><b>Login</b></sub></a><br /></td>
- 
-
-
+  </tr>
+    </tr>
+   <tr>
     <td align="center"><img src="/_docs/repos.jpeg" width="200"> <br /><sub><b>Login</b></sub></a><br /></td>
-  
+  </tr>
 </table>
 
 
