@@ -1,7 +1,11 @@
 # Luby - Test
 
-Meu nome é Ermesson Lima,  dou as boas-vindas a cada um de vocês.
+My name is Ermesson Lima.
 
+I welcome each and everyone of you.
+
+# What is it?
+`Luby-Test` is an example React Native project developed during a test.
 
 
 
