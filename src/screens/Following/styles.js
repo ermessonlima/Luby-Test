@@ -15,7 +15,7 @@ font-weight: bold;
 export const ImageAvatar = styled.Image`
 height: 64px;
 width: 64px;
-border-radius: 32;
+border-radius: 32px;
 border-color: #ffffff;
 border-width: 2px;
 margin:20px;
