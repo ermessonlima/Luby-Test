@@ -23,6 +23,7 @@ To install this example application, run the following commands:
 ```bash
 git clone https://github.com/ermessonlima/Luby-Test.git
 cd Luby-Test-main
+yarn install
 ```
 This will get a copy of the project installed locally.
 
