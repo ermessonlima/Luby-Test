@@ -1,9 +1,12 @@
 # Luby - Test
 
+Meu nome é Ermesson Lima,  dou as boas-vindas a cada um de vocês.
+
+Se você gostaria de experimentar esse aplicativo, siga os passos abaixo :
 
 # Login
 ![Imagem do Projeto](/_docs/home.jpeg)
-
+<img src="/_docs/home.jpeg" width="48">
 # Perfil
 ![Imagem do Projeto](/_docs/home.perfil)
 
