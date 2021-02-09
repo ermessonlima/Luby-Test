@@ -2,16 +2,28 @@
 
 Meu nome é Ermesson Lima,  dou as boas-vindas a cada um de vocês.
 
+
+
+
+<table>
+  <tr>
+    <td align="center"><img src="/_docs/home.jpeg" width="400"> <br /><sub><b>Login</b></sub></a><br /></td>
+  </tr>
+   <tr>
+    <td align="center"><img src="/_docs/perfil.jpeg" width="400"> <br /><sub><b>Login</b></sub></a><br /></td>
+  </tr>
+    </tr>
+   <tr>
+    <td align="center"><img src="/_docs/repos.jpeg" width="400"> <br /><sub><b>Login</b></sub></a><br /></td>
+  </tr>
+</table>
+
+
+
+
 Se você gostaria de experimentar esse aplicativo, siga os passos abaixo :
 
-# Login
-![Imagem do Projeto](/_docs/home.jpeg)
-<img src="/_docs/home.jpeg" width="48">
-# Perfil
-![Imagem do Projeto](/_docs/home.perfil)
 
-# Repos
-![Imagem do Projeto](/_docs/repos.jpeg)
 
 # Desenvolvedor
 
