@@ -5,7 +5,7 @@ My name is Ermesson Lima.
 I welcome each and everyone of you.
 
 # What is it?
-`Luby-Test` is an example React Native project developed during a test.
+`Luby-Test` is an example React Native project developed.
 
 
 
